@@ -10,5 +10,5 @@
 数  据  库：MySQL
 
 具体的关于这个图书管理系统的项目介绍包括数据库建表的相关操作都在我上传的PPT和实验报告当中当中有详细的介绍。<br>
-项目网址:[https://github.com/futingx/awesome-springboot-project/blob/main](图书管理系统)
+
 
